@@ -33,7 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: const Text('聊天室'),
+        title: const Text('test'),
       ),
       body: const Center(
         child: Text('hi'),
